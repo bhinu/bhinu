@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Heyy 👋, I'm Bhinu Santosh</h1>
-<h3 align="center">AI Researcher | Software Engineer | Data Enthusiast</h3>
+<h3 align="center"> Software Engineer | Data Enthusiast</h3>
 
 <p align="center">
   <img src="https://github.com/bhinu/bhinu/blob/main/animated_banner.gif" alt="animated banner" width="90%"/>
@@ -23,7 +23,7 @@
 
 🎓 I'm a Computer Science & Data Science undergrad at **University of Wisconsin - Madison**, with a minor in **Economic Analytics**.  
 🔬 Currently researching deforestation trends at the **GLUE Lab**.  
-🧠 I love building **AI-powered tools**, automating workflows, and solving meaningful problems using data.
+🧠 I love building and learning new things.
 
 ---
 
