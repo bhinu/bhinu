@@ -3,12 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Bhinu%20Puvvala&fontSize=55&fontAlignY=38&fontColor=ffffff&desc=Backend%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20On-device%20ML&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
 </a>
 
-<!-- TYPING ANIMATION -->
-<div align="center">
-  <a href="https://github.com/bhinu">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&lines=Backend+engineer+with+a+grudge+against+latency;Distributed+systems+%2B+on-device+ML;I+read+the+docs.+Sometimes.;If+an+LLM+wrote+this%2C+we%27d+be+on+em+dash+%234" alt="Typing SVG" />
-  </a>
-</div>
 
 <!-- PROFILE VIEWS + SOCIAL BADGES -->
 <div align="center">
@@ -31,9 +25,7 @@
 name:        Bhinu Santosh
 education:   CS + Data Science @ UW-Madison (Econ Analytics minor)
 graduating:  May 2027
-gpa:         does it really matter?
 currently:   shipping backend services that are slightly faster than yesterday
-weakness:    will rewrite a SQL query for fun
 ```
 
 <br>
@@ -190,23 +182,12 @@ pthreads, free lists, segregated bins. CS 537 throwback. Still mildly afraid of 
 </table>
 
 
-<br>
-
-## ♟️ Off the Keyboard
-
-FIDE-rated chess player. Event Manager at the Wisconsin Union, which is a polite way of saying I have debugged audio mixers in dark rooms more times than I can count.
-
-<br>
-
 ## 🎯 Currently
 
 Building toward **ML systems** and **on-device inference**. Open to backend, data, and ML-infra internship conversations. If you want to talk distributed systems, NPU quantization, or which campus coffee shop has the least judgmental wifi, my inbox is open.
 
 <br>
 
-<div align="center">
-  <i>No language model was harmed in the writing of this README.</i>
-</div>
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
