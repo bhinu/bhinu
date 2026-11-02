@@ -185,7 +185,7 @@ Also built: [Gesture](https://github.com/bhinu/Gesture) · [Conduit E2E Tests](h
 
 Working on robot training data at **Holos** and building projects in storage systems and browser automation. Open to **2027 new grad software engineering roles** in backend, data infrastructure, and ML systems.
 
-[Get in touch](mailto:bhinusantosh@gmail.com) · [View my portfolio](https://bhinu.dev)
+[View my portfolio](https://bhinu.dev)
 
 <br>
 
