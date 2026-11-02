@@ -80,83 +80,49 @@ Interests:   Backend systems, data infrastructure, applied ML
 
 ## 💼 Experience
 
-<table>
-<tr><td width="25%" valign="top">
+### Holos — Software Engineer, Industry Capstone
 
-**Holos**
+*Sep 2026–Present · Madison, WI*
 
-*Software Engineer, Industry Capstone*
-
-Sep 2026–Present · Madison, WI
-
-</td><td valign="top">
-
-Building a Python pipeline that converts Apple Vision Pro hand captures into robot training data, with action segmentation, grasp classification, and Azure DevOps CI.
+- Building a Python pipeline that converts Apple Vision Pro hand captures into robot training data, with action segmentation, grasp classification, and Azure DevOps CI.
 
 `Python` · `Azure DevOps` · `Computer vision`
 
-</td></tr>
-<tr><td width="25%" valign="top">
+### QubitSolve — Software Engineering Intern
 
-**QubitSolve**
+*Jun–Aug 2026 · Morgantown, WV*
 
-*Software Engineering Intern*
-
-Jun–Aug 2026 · Morgantown, WV
-
-</td><td valign="top">
-
-Shipped feasibility and cost-estimation services across AWS EC2 and five quantum backends. Reduced parameter setup from **2+ hours to seconds** and derived circuit gate counts analytically to meet a 500 ms latency budget.
+- Shipped feasibility and cost-estimation services across AWS EC2 and five quantum backends.
+- Reduced parameter setup from **2+ hours to seconds** and derived circuit gate counts analytically to meet a 500 ms latency budget.
 
 `Python` · `FastAPI` · `AWS` · `Qiskit`
 
-</td></tr>
-<tr><td width="25%" valign="top">
+### Methix — Software Engineering Intern
 
-**Methix**
+*May–Aug 2025 · New York, NY*
 
-*Software Engineering Intern*
-
-May–Aug 2025 · New York, NY
-
-</td><td valign="top">
-
-Reduced p95 API latency **30%** for 5,000+ weekly users. Cut PostgreSQL query latency from **250 ms to 120 ms** and reduced deployment time **80%** by rebuilding the Azure DevOps pipeline.
+- Reduced p95 API latency **30%** for 5,000+ weekly users.
+- Cut PostgreSQL query latency from **250 ms to 120 ms** and reduced deployment time **80%** by rebuilding the Azure DevOps pipeline.
 
 `Flask` · `PostgreSQL` · `Redis` · `Azure`
 
-</td></tr>
-<tr><td width="25%" valign="top">
+### GLUE Lab — Undergraduate Researcher
 
-**GLUE Lab**
+*Jan–May 2025 · UW–Madison*
 
-*Undergraduate Researcher*
-
-Jan–May 2025 · UW–Madison
-
-</td><td valign="top">
-
-Reduced runtime **86%** on a pipeline processing **10 TB+** of Brazilian satellite imagery. Fine-tuned YOLOv8 and CSRNet for cattle-confinement detection.
+- Reduced runtime **86%** on a pipeline processing **10 TB+** of Brazilian satellite imagery.
+- Fine-tuned YOLOv8 and CSRNet for cattle-confinement detection.
 
 `PyTorch` · `Dask` · `GeoPandas`
 
-</td></tr>
-<tr><td width="25%" valign="top">
+### Diyar United — Data Engineering Intern
 
-**Diyar United**
+*Jun–Aug 2024 · Kuwait City*
 
-*Data Engineering Intern*
-
-Jun–Aug 2024 · Kuwait City
-
-</td><td valign="top">
-
-Automated Python/SQL pipelines processing **500K+ records daily**, tripling throughput and saving 15+ hours of manual work weekly. Built the supporting star-schema warehouse and Power BI dashboards.
+- Automated Python/SQL pipelines processing **500K+ records daily**, tripling throughput and saving 15+ hours of manual work weekly.
+- Built the supporting star-schema warehouse and Power BI dashboards.
 
 `Python` · `SQL` · `Power BI` · `ETL`
-
-</td></tr>
-</table>
 
 <br>
 
