@@ -17,12 +17,12 @@
 ## 🚀 About Me
 
 ```yaml
-name:        Bhinu Santosh Puvvala
-education:   Computer Science + Data Science, UW–Madison
-certificate: Economic Analytics
-graduating:  May 2027
-currently:   Software Engineer, Industry Capstone at Holos
-interests:   Backend systems, data infrastructure, applied ML
+Name:        Bhinu Santosh Puvvala
+University:  University of Wisconsin - Madison
+Major(s):    Computer Science, Data Science
+Minor:       Economic Analytics
+Graduating:  May 2027
+Interests:   Backend systems, data infrastructure, applied ML
 ```
 
 [Website](https://bhinu.dev) · [Resume](https://bhinu.dev/resume.pdf)
