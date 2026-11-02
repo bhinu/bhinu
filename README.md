@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <a href="https://github.com/bhinu">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Bhinu%20Puvvala&fontSize=55&fontAlignY=38&fontColor=ffffff&desc=Backend%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20On-device%20ML&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Bhinu&fontSize=55&fontAlignY=38&fontColor=ffffff&desc=Backend%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20On-device%20ML&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
 </a>
 
 
@@ -22,7 +22,7 @@
 ## 🚀 About Me
 
 ```yaml
-name:        Bhinu
+name:        Bhinu Santosh Puvvala
 education:   Computer Science + Data Science, UW–Madison
 certificate: Economic Analytics
 graduating:  May 2027
