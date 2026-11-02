@@ -22,7 +22,7 @@
 ## 🚀 About Me
 
 ```yaml
-name:        Bhinu Puvvala
+name:        Bhinu
 education:   Computer Science + Data Science, UW–Madison
 certificate: Economic Analytics
 graduating:  May 2027
